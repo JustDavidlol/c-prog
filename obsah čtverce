@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <math.h>
+
+
+int main() {
+
+    int sides=8;
+        
+    int area=4*sides;
+
+    printf("area of a square is %d",area);
+
+    return 0;
+}
