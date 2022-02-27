@@ -1,1 +1,17 @@
+#include <stdio.h>
+#include <math.h>
 
+
+
+int main() 
+
+{
+
+    int lenght=15, wight=10;
+    
+    int area=lenght*wight;
+
+    int perimeter=
+
+    printf("area of rectangle is %d\n",area);
+}  
