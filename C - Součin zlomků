@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main() {
+
+    int cit1, jm1, cit2, jm2;
+    
+    cit1 = 4;
+    jm1 = 8;
+    cit2 = 16;
+    jm2 = 2;
+
+    int zlomek1 = cit1 * cit2;
+    int zlomek2 = jm1 * jm2;
+
+    printf("zlomek je \n\n%d",zlomek1);
+    printf("\n%d",zlomek2);
+
+    return 0;
+}
